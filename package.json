@@ -1,0 +1,15 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.1",
+  "description": "A react boilerplate to understand the underlying configurations of a react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react boilerplate"
+  ],
+  "author": "Amelia Power",
+  "license": "ISC"
+}
